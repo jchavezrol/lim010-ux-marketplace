@@ -159,7 +159,7 @@ A continuacion el link donde estan los videos del Testing del Prototipo de Media
 ## Testing de prototipo de alta fidelidad
 Conclusiones:
 * El usuario cree que el logo es clickeable y lo redirige a la página de inicio.
-* No hizo uso de la opción.
+* No hizo uso de la opción esta de envio.
 * Menciona que las imagenes deberian ser mas grandes o tener zoom.
 * Considera que el tiempo de entrega debe ser definido por la empresa y no por ella.
 * No identifica con claridad su lista de pedidos.
@@ -179,4 +179,4 @@ A continuacion el link donde estan los videos del Testing del Prototipo de alta 
 ![Imgur](https://i.imgur.com/u8wtnjh.png)
 
 ## Video del proyecto
-[Videos](https://www.loom.com/share/6123be3d22664027923f7d2e69d9f295)
+[Video](https://www.loom.com/share/6123be3d22664027923f7d2e69d9f295)
