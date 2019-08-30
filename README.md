@@ -9,6 +9,7 @@ El entorno social muestra un incremento de clientes que compran vía Internet, y
 
 ## Sobre Catalove
 CataLove se inició en Diciembre del 2018 en Intagram  y luego en facebook con la idea de tener los accesorios de temporada sin tener que esperar tanto por ellos y poder conseguirlos a un precio accesible, además de querer fomentar los trabajos hechos a mano por mujeres empoderadas y para mujeres empoderadas que sabrán reconocer la creatividad, dedicación y tiempo que se le ha otorgado a cada pieza en todo el proceso desde su creación hasta su comercialización.
+![Imgur](https://i.imgur.com/iWdjadK.png)
 
 ## Objetivos
 ### Objetivo general:
@@ -105,11 +106,11 @@ Ahora que ya conocemos a nuestro cliente (User Persona) y sabemos su necesidades
 ## How might we / ¿Cómo podríamos?
 Después de identificar nuestro problem statements, se procedió a definir los "How might we" correspondientes. 
 
-¿Como podriamos hacer que el proceso de compra sea más rápido para el usuario?
-¿Como podriamos hacer que el pago sea rápido como dar un clic?
-¿Como podriamos hacer que se sientan seguros a la hora de pago online?
-¿Como podriamos hacer que el pago sea como pagar personalmente sin correr riesgos de estafa?
-¿Como podriamos aprovechar el pago online para generar tranquilidad?
+- ¿Como podriamos hacer que el proceso de compra sea más rápido para el usuario?
+- ¿Como podriamos hacer que el pago sea rápido como dar un clic?
+- ¿Como podriamos hacer que se sientan seguros a la hora de pago online?
+- ¿Como podriamos hacer que el pago sea como pagar personalmente sin correr riesgos de estafa?
+- ¿Como podriamos aprovechar el pago online para generar tranquilidad?
 
 ## Feature list
 ![Imgur](https://i.imgur.com/Lt1UenG.png)
