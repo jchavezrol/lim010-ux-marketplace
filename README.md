@@ -1,6 +1,6 @@
 # CATALOVE - MARKETPLACE
 
-![Sin titulo](imagenes/iniciopantalla.png)
+![Image](https://i.imgur.com/vVAsNkJ.png)
 
 ## Preámbulo del proyecto
 
@@ -22,18 +22,18 @@ Transformar los procesos de gestión comercial de “Catalove” digitalmente, e
 ## Presupuesto
 Para realizar este proyecto tuvimos que utilizar una serie de herramientas que implementamos en nuestro proceso de UX, las cuales fueron ajustadas en un presupuesto de 290 puntos:
 
-![Sin titulo](imagenes/presupuesto.png)
+![Imgur](https://i.imgur.com/uAWW737.png)
 
 ## Benchmark
 Al establecer elementos de comparación entre Catalove y otras empresas del mismo rubro se observan algunos puntos en común y otros en los que tendría que mejorar, esta conclusión nos permite realizar una propuesta de valor.
 
-![Sin titulo](imagenes/benchmarck.png)
+![Imgur](https://i.imgur.com/r2tenON.png)
 
 ## Entrevistas
 ### Entrevistas con el cliente
 En todo este proceso de investigación e implementación estuvimos en constante comunicación con Cinthya, dueño de Catalove. Le realizamos una primera entrevista con el fin de conocer más sobre el negocio y sus objetivos principales.
 
-![Sin titulo](imagenes/ent-cintya.jpg)
+![Imgur](https://i.imgur.com/WZ0KIGq.jpg)
 
 - [Guia de entrevista](https://docs.google.com/document/d/1lkcTZVTcXdpxRJGOvNNE2FjVJH_4khRG87ks6LQl5KU/edit)
 - [Video](https://docs.google.com/document/d/1lkcTZVTcXdpxRJGOvNNE2FjVJH_4khRG87ks6LQl5KU/edit)
@@ -62,17 +62,17 @@ Para encontrar las personas a ser entrevistadas, recibimos una referido de la mi
 ## User persona
 Luego de Entrevistar a 5 personas (1 usuario frecuente y 4 usuarios potenciales), llegamos a elaborar a nuestro user persona, con las consideraciones y características que se muestran a continuación:
 
-![Sin titulo](imagenes/userpersona.jpg)
+![Imgur](https://i.imgur.com/5C0n7Oe.jpg)
 
 ## Customer Journey Map
 El mapa de viaje del cliente fue diseñado en base a las experiencias de los usuarios en sus proceso de compras online desde el momento que ingresa al fan page hasta que se le entrega el producto.
 
-![Sin titulo](imagenes/customer.jpg)
+![Imgur](https://i.imgur.com/Bw2yiI6.jpg)
 
 ## Affinity Map
 Como último paso de nuestro proceso de investigación, juntamos toda la información y los insights en un mapa de afinidad.
 
-![Sin titulo](imagenes/afinitymap.png)
+![Imgur](https://i.imgur.com/jxOygbW.png)
 
 Diseño, implementación y producto
 - Orden y claridad de la información.
@@ -112,7 +112,7 @@ Después de identificar nuestro problem statements, se procedió a definir los "
 ¿Como podriamos aprovechar el pago online para generar tranquilidad?
 
 ## Feature list
-![Sin titulo](imagenes/featurelist.png)
+![Imgur](https://i.imgur.com/Lt1UenG.png)
 
 ## Solución y prototipo
 Finalmente, con la información obtenida en nuestro proceso de investigación, pasamos a implementar la validación de la solución. Para ello realizamos funcionalidades y contenidos que responden a los objetivos principales del proyecto.
@@ -121,14 +121,14 @@ Ante ello creamos la página web de Catalove con un diseño dirigido al público
 
 ## Flujo de contenido
 
-![Sin titulo](imagenes/flujo.png)
+![Imgur](https://i.imgur.com/VoUBd7X.png)
 
 ## Sketch
 Inicialmente se ideó el siguiente sketch:
-![Sin titulo](imagenes/1.jpg)
-![Sin titulo](imagenes/2.jpg)
-![Sin titulo](imagenes/3.jpg)
-![Sin titulo](imagenes/4.jpg)
+![Imgur](https://i.imgur.com/r1zPxOF.jpg)
+![Imgur](https://i.imgur.com/BBdRDSD.jpg)
+![Imgur](https://i.imgur.com/BECkIJR.jpg)
+![Imgur](https://i.imgur.com/btg8vAk.jpg)
 
 ## Prototipo de media fidelidad (Wireframe)
 - [Wireframe](https://drive.google.com/drive/folders/1jajxedb2Yt4wzsRsCjcthrZGS-KSynyB
@@ -150,7 +150,7 @@ A continuacion el link donde estan los videos del Testing del Prototipo de Media
 )
 - [Videos](https://drive.google.com/drive/folders/19qEIVKbozZZExoT1wqlv6dD6cSvoDwjZ)
 
-![Sin titulo](imagenes/sketch.jpg)
+![Imgur](https://i.imgur.com/Tz13V4I.jpg)
 
 ## Prototipo de alta fidelidad
 - [Figma](https://www.figma.com/file/qgLgRyiBiwrVs8zfmjik9m/Catalove-prototipo-de-media-fidelidad-jyl?node-id=1%3A34)
@@ -175,4 +175,4 @@ A continuacion el link donde estan los videos del Testing del Prototipo de alta 
 - [Videos](https://drive.google.com/drive/folders/1I4bcUvVvbYsjzyjvKzyc9YJQc2v_GnLF
 )
 
-![Sin titulo](imagenes/testfigma.png)
+![Imgur](https://i.imgur.com/u8wtnjh.png)
