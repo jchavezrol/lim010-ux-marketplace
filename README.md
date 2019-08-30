@@ -179,4 +179,4 @@ A continuacion el link donde estan los videos del Testing del Prototipo de alta 
 ![Imgur](https://i.imgur.com/u8wtnjh.png)
 
 ## Video del proyecto
-[Video](https://www.loom.com/share/6123be3d22664027923f7d2e69d9f295)
+- [Video](https://www.loom.com/share/6123be3d22664027923f7d2e69d9f295)
