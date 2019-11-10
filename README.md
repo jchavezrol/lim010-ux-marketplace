@@ -154,7 +154,7 @@ A continuacion el link donde estan los videos del Testing del Prototipo de Media
 ![Imgur](https://i.imgur.com/Tz13V4I.jpg)
 
 ## Prototipo de alta fidelidad
-- [Figma](https://www.figma.com/file/qgLgRyiBiwrVs8zfmjik9m/Catalove-prototipo-de-media-fidelidad-jyl?node-id=1%3A34)
+- [Figma](https://www.figma.com/proto/wadCYvahY5JxeJf21MZOUx/Ecommerce-Catalove?node-id=1%3A34&scaling=scale-down)
 
 ## Testing de prototipo de alta fidelidad
 Conclusiones:
